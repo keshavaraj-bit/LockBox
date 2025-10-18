@@ -1,0 +1,21 @@
+﻿# Compiled executable
+lockbox.exe
+
+# Generated data files (DO NOT UPLOAD TO GITHUB)
+master.key
+vault.dat
+*.lock
+
+# Build files
+*.o
+*.obj
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
