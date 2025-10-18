@@ -1,4 +1,4 @@
-@"
+@
  LockBox - Secure Password & File Vault
 
 A professional C++ application for secure password management and file encryption.
